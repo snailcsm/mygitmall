@@ -1,0 +1,26 @@
+:root{
+  --base_color_light:#f0a02c;
+  --base_color_deep:#EF6C00;
+  --active_text_color:#EF6C00;
+  --light_text_color:#999;
+  --base-text-color:#222;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+a{
+  text-decoration:none;
+}
+html,body,#app{
+  width:100%;
+  height: auto;
+  overflow-x:hidden;
+  color: #222;
+}
+img{
+  display: block;
+  width: 100%;
+}
